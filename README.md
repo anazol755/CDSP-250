@@ -6,7 +6,7 @@ This repository contains the work I did for CSDP-250, which focused on [briefly 
 
 ## Assignments
 
-### Assignment 4: Palindrome Checker Using Stack
+### Palindrome Checker Using Stack
 - **Description:** In this assignment, I implemented a simple C++ program that checks whether a given sentence is a palindrome using a stack. The program takes a user-inputted string, pushes each character onto a stack, and then compares the original string with the reversed version obtained by popping characters from the stack. If the original string matches the reversed string, it is identified as a palindrome. This project provided hands-on experience with stack operations and string manipulation.
 
 - **Key Concepts:** 
