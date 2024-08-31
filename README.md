@@ -6,25 +6,38 @@ This repository contains the work I did for CSDP-250, which focused on [briefly 
 
 ## Assignments
 
-### Assignment 1: [Title]
-- **Description:** [Briefly describe the purpose of this assignment and what you learned or achieved.]
-- **Key Concepts:** [List the key concepts or skills involved.]
-- **Files:** [Link to the files related to this assignment.]
+### Assignment 4: Palindrome Checker Using Stack
+- **Description:** In this assignment, I implemented a simple C++ program that checks whether a given sentence is a palindrome using a stack. The program takes a user-inputted string, pushes each character onto a stack, and then compares the original string with the reversed version obtained by popping characters from the stack. If the original string matches the reversed string, it is identified as a palindrome. This project provided hands-on experience with stack operations and string manipulation.
 
-### Assignment 2: [Title]
-- **Description:** [Briefly describe the purpose of this assignment and what you learned or achieved.]
-- **Key Concepts:** [List the key concepts or skills involved.]
-- **Files:** [Link to the files related to this assignment.]
+- **Key Concepts:** 
+  - Stack data structure implementation
+  - String manipulation in C++
+  - Palindrome checking
+  - Using iterators to traverse strings
 
-### Assignment 3: [Title]
-- **Description:** [Briefly describe the purpose of this assignment and what you learned or achieved.]
-- **Key Concepts:** [List the key concepts or skills involved.]
-- **Files:** [Link to the files related to this assignment.]
+### Queue Linked List (Uppercase/Lowercase Converter)
+- **Description:** In this assignment, I implemented a `Queue` class using a linked list structure in C++. The program reads a word or sentence input by the user, enqueues each character, and then converts uppercase letters to lowercase and vice versa. The converted characters are stored back into the queue, and the entire queue is displayed. This project reinforced my understanding of the queue data structure, linked lists, and character manipulation in C++.
 
-### Assignment 4: [Title]
-- **Description:** [Briefly describe the purpose of this assignment and what you learned or achieved.]
-- **Key Concepts:** [List the key concepts or skills involved.]
-- **Files:** [Link to the files related to this assignment.]
+- **Key Concepts:** 
+  - Queue data structure implementation using linked lists
+  - Dynamic memory management in C++
+  - Character manipulation (converting between uppercase and lowercase)
+  - Handling user input and output
+
+### Linked List Implementation (StudentList)
+- **Description:** In this assignment, I implemented a linked list class called `NumberList` in C++. The list manages student data, including student ID and GPA. The list supports the following operations:
+  - Appending a student (i.e., adding a node to the end of the list).
+  - Inserting a student in order based on their ID.
+  - Deleting a student from the list by their ID.
+  - Displaying the list of students.
+
+  This project helped me understand the inner workings of linked lists, including node management, dynamic memory allocation, and basic list operations.
+
+- **Key Concepts:** 
+  - Linked list data structure
+  - Dynamic memory management in C++
+  - Implementing basic list operations (append, insert, delete, display)
+  - Pointers and pointer manipulation
 
   ### Leap Year Finder
 - **Description:** This assignment involved writing a C++ program to determine leap years within a given date range. The user inputs a start date and an end year, and the program calculates all the leap years within that interval. Through this project, I reinforced my understanding of basic C++ programming concepts, including string manipulation, loops, conditionals, and working with vectors.
