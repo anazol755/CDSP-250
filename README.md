@@ -1,5 +1,5 @@
-CSDP-250
-A collection of projects and assignments completed during the CSDP-250 course.
+# CSDP-250
+A collection of a few assignments completed during the CSDP-250 course.
 
 ## Overview
 This repository contains the work I did for CSDP-250, which focused on [briefly describe the topics covered in the course]. The assignments include [list some of the key types of assignments, e.g., coding projects, reports, data analysis].
